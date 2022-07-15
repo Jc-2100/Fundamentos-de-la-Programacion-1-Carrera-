@@ -1,4 +1,2 @@
-Repaso de la asignatura Fundamentos de la Programación C++ del primer año de Ingeniería del Software
-
-
-Por Jose Canto Peral y Jaime Nevado Farfán
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Repaso+de+Fundamentos+de+la+Programación!)](https://git.io/typing-svg)
+<br/>
