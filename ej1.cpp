@@ -21,7 +21,7 @@ TFreqs freqsOf(string s, TFreqs f);
 void printFreqs(TFreqs f);
 
 int main(){
-    string s = "1 8 7 3 4 8 5 9 5 0 0 4 8 4 5 3 2 8";
+    string s = "1 8 7 3 4 8 0 0 4 8 4 5 3 2 8";
     TFreqs a;
     printFreqs(freqsOf(s, a));
     return 0;
