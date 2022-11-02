@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Repaso+de+CPP+para+exámen)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ejercicios+de+programacion+desde+mayor+a+menor+dificultad)](https://git.io/typing-svg)<br/>
