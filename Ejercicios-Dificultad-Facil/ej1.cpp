@@ -1,4 +1,4 @@
-// Ejercicio más simple (y conocido) que se puede crear en programación, llamado "Hola Mundo"; así se vería en C++.
+// Ejercicio más simple (y conocido) que se puede crear en programación, llamado "Hello World"; así se vería en C++.
 // Usamos la librería estandar "iostream" que es la librería utilizada para operaciones de entrada/salida (Input/Output Stream).
 // Esta librería define el método "cout" usado en este programa denotado como "Console Out".
 
@@ -10,6 +10,6 @@
 using namespace std;
 
 int main(){
-    cout << "Hola Mundo";
+    cout << "Hello World";
     return 0;
 }
