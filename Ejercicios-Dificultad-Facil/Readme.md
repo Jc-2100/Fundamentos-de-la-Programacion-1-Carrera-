@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=3000&pause=1000&color=3BFB2F&background=4428AD00&center=true&vCenter=true&width=435&lines=Dificultad+F%C3%A1cil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=3000&pause=1000&color=3BFB2F&background=4428AD00&center=true&vCenter=true&width=800&lines=Dificultad+F%C3%A1cil)](https://git.io/typing-svg)
