@@ -10,15 +10,15 @@ const int MBYTE = KBYTE*KBYTE;
 
 int main()
 {
-    int bytes_totales;
-    cout << "Introduzca una cantidad de Bytes: ";
-    cin >> bytes_totales;
+    int total_bytes;
+    cout << "Enter a number of bytes: ";
+    cin >> total_bytes;
     int mByte, kByte, bytes;
-    mByte = bytes_totales / MBYTE;
-    kByte = (bytes_totales % MBYTE) / KBYTE; // We use the operator "%", because we want the remainder of the division.
-    bytes = (bytes_totales % MBYTE) % KBYTE; // We can concatenate different arithmetic operations with the use of parentheses.
+    mByte = total_bytes / MBYTE;
+    kByte = (total_bytes % MBYTE) / KBYTE; // We use the operator "%", because we want the remainder of the division.
+    bytes = (total_bytes % MBYTE) % KBYTE; // We can concatenate different arithmetic operations with the use of parentheses.
 
-    cout << bytes_totales << " Bytes corresponden a: " << endl
+    cout << total_bytes << " Bytes equals to: " << endl
         << "\tMbytes = " << mByte << endl // The expression "\t" is a tabulator, which is the same as 4 keyboard spaces.
         << "\tKbytes = " << kByte << endl
         << "\tBytes = " << bytes << endl;

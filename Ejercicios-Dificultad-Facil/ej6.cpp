@@ -9,10 +9,10 @@
 #include <iostream>
 using namespace std;
 
-int main(void)
+int main()
 {
     char c1, c2, c3, c4;
-    cout << "Introduzca una palabra de 4 letras minusculas: ";
+    cout << "Enter a word of 4 lower case letters: ";
     cin >> c1 >> c2 >> c3 >> c4;
 
     int mayusC1 = 'A' + (c1 - 'a'); // We know that letters in ASCII are ordered, so we can calculate de distance between 'a' and c1 (letter entered by keyboard)
@@ -20,5 +20,5 @@ int main(void)
     int mayusC3 = 'A' + (c3 - 'a');
     int mayusC4 = 'A' + (c4 - 'a');
 
-    cout << "La palabra [" << c1 << c2 << c3 << c4 << "] transformada es ["
+    cout << "The word [" << c1 << c2 << c3 << c4 << "] is transformed into ["
             << char(mayusC1) << char(mayusC2) << char(mayusC3) << char(mayusC4) << "]" << endl;
