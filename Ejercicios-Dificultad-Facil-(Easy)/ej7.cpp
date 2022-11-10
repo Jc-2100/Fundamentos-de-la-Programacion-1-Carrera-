@@ -7,6 +7,7 @@
 // First we enter a number and when we press the Enter key it will show "True" if it is even or "False" if it is not.
 // We add a new variable, "boolalpha" is a status variable that will display the value of a Boolean as "True" or "False",
 // if we omit it, "is_even" would be either '1' (True) or '0' (False).
+
 #include <iostream>
 using namespace std;
 
