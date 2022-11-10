@@ -1,5 +1,5 @@
-// Programa que transforma una cadena de caracteres de minusculas a mayusculas.
-// No hace falta saber el código ASCII para realizar este programa (aunque se podría hacer).
+// Programa que transforma una cadena de caracteres de minúsculas a mayúsculas.
+// No hace falta saber el código ASCII para realizar este programa.
 // Por último mostraremos la cadena con el método "char(dato)".
 
 // Program that transforms a string of characters from lower case to upper case.
@@ -22,3 +22,5 @@ int main()
 
     cout << "The word [" << c1 << c2 << c3 << c4 << "] is transformed into ["
             << char(mayusC1) << char(mayusC2) << char(mayusC3) << char(mayusC4) << "]" << endl;
+    return 0;
+}

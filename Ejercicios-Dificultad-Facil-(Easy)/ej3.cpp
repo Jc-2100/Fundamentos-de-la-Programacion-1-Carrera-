@@ -17,4 +17,6 @@ int main()
     cout << "char: " << sizeof(char) << " bytes" << endl; // Value range: '\u0000' to '\uffff'
     cout << "int: " << sizeof(int) << " bytes" << endl; // Value range: -2147483648 to 2147483647
     cout << "double: " << sizeof(double) << " bytes" << endl; // Value range: -1.79769313486232e308 to 1.79769313486232e308
+
+    return 0;
 }

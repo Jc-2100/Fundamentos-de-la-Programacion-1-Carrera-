@@ -19,5 +19,7 @@ int main()
     cout << "Introduce an integer number: ";
     cin >> n1;
 
-    cout << "The value of the number is: " << n1 << endl; // "endl" = salto de línea(line break)
+    cout << "The value of the number is: " << n1 << endl; // "endl" = line break
+
+    return 0;
 }

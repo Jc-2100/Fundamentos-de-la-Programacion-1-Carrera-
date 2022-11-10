@@ -17,4 +17,6 @@ int main()
 
     cout << "The word [" << letter1 << letter2 << letter3 << letter4 << "] is transformed into ["
             << char(letter1+1)  << char(letter2+1) << char(letter3+1) << char(letter4+1) << "]" << endl;
+
+    return 0;
 }

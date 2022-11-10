@@ -22,4 +22,6 @@ int main()
         << "\tMbytes = " << mByte << endl // The expression "\t" is a tabulator, which is the same as 4 keyboard spaces.
         << "\tKbytes = " << kByte << endl
         << "\tBytes = " << bytes << endl;
+    
+    return 0;
 }
