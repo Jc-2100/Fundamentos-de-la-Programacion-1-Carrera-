@@ -23,4 +23,5 @@ int main(void)
     {
         cout << "El numero " << num << " no es negativo" << endl; // In any other case we display this part.
     }
+    return 0;
 }
