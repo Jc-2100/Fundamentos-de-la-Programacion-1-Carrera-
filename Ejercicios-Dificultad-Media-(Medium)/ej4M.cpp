@@ -36,4 +36,6 @@ int main(void)
     default:
         cout << "Wrong month" << endl;
     }
+    
+    return 0;
 }
