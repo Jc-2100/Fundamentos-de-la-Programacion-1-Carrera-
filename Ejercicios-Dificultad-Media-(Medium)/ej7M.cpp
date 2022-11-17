@@ -4,11 +4,11 @@ using namespace std;
 int main()
 {
     int N;
-    cout << "Introduce un valor de teclado: ";
+    cout << "Enter a number: ";
     cin >> N;
 
-    for (int i = 0; i < N; i++){// Conditions of the for-loop
-        cout << i << " "; // Code that will be executed intil the conditions are fulfilled
+    for (int i = 0; i < N; i++){ // Conditions of the for-loop
+        cout << i << " "; // Code that will be executed until the conditions are fulfilled
     }
 
     cout << endl;
